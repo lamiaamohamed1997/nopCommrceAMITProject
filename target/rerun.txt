@@ -1,0 +1,3 @@
+file:src/main/resources/features/TS07_followUsFeature.feature:15
+file:src/main/resources/features/TS06_sliderFeature.feature:4:8
+file:src/main/resources/features/TS01_registrationFeature.feature:5
